@@ -1,8 +1,9 @@
 /* ===
 ml5 Example
-Webcam Image Classification using MobileNet and p5.js
+Image Classification using Feature Extraction with MobileNet. Built with p5.js
 This example uses a callback pattern to create the classifier
 === */
+
 let featureExtractor;
 let classifier;
 let video;
